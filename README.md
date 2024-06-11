@@ -1,5 +1,5 @@
 # GLAC-GCN
-Global and Local Topology-Aware Contrastive Graph Clustering Network
+This is the code for our IEEE Transactions on Artificial Intelligence'24 paper "GLAC-GCN: Global and Local Topology-Aware Contrastive Graph Clustering Network"
 
 # Paper
 https:
